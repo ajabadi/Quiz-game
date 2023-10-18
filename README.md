@@ -1,1 +1,1 @@
-# quiz-game
+This week's Challenge presents an exciting opportunity to craft a dynamic quiz game leveraging the power of JavaScript. The challenge encompasses creating a quiz that is not only timed but also equipped with the ability to store and compare high scores. Unlike previous weeks, we won't be handed any pre-written code; instead, we'll dive into the creative process of constructing the HTML and CSS components from scratch.  
